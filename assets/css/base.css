@@ -1,0 +1,11 @@
+*{
+    box-sizing: inherit;
+    background-color: #F4FBF0;
+}
+
+html{
+    box-sizing: border-box;
+}
+
+
+
